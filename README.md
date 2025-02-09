@@ -20,8 +20,4 @@ ESLint & Prettier
 (https://github.com/python1911/rs-react-app/tree/hooks-and-routing)
 cd rs-react-app
 npm install
-npm run devs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-
+npm run 
